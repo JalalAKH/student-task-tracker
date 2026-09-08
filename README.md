@@ -1,5 +1,5 @@
 # student-task-tracker
-## Team member
+## Team members
 1. Jalal Akhoun 
 2. Saad Alqahtani
 ##
