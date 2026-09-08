@@ -1,5 +1,5 @@
 # student-task-tracker
-## Team members
+## Team Members
 1. Jalal Akhoun 
 2. Saad Alqahtani
 ## Project Abstract
