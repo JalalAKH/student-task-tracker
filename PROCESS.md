@@ -15,7 +15,7 @@ The goal of Sprint 1 is to build the basic features needed for a student to acce
 - As a student, I want to mark assignments as completed so I can track my progress.
 
 ## Workflow
-We will use the GitHub Project board to track our work. Tasks will move through Backlog, In Progress, and Done as we work on them.
+We will use the [Student Task Tracker - Scrum Project Board](https://github.com/users/JalalAKH/projects/1/views/1) to track our work. Tasks will move through Backlog, In Progress, and Done as we work on them.
 
 ## Team Process
 Team members will work on assigned tasks during the sprint and use GitHub to track changes and progress. At the end of the sprint, we will review the completed work and decide what should be included in the next sprint.
